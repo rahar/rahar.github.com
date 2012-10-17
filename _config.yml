@@ -1,0 +1,6 @@
+auto: true
+server: true
+permalink: none
+baseurl: ""
+prose:
+    rooturl: "_posts"
